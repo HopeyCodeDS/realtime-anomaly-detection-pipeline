@@ -100,6 +100,8 @@ cd real-time-anomaly-detection-pipeline
 
 Interactive UI Dashboards: Open your browser to http://localhost:5601. Navigate to Stack Management > Data Views, generate a view for anomalies*, and view live charts within the Discover module.
 
+![Image of the output](images/anomalies-detection.png)
+
 REST API Payloads: Query your backend data payloads directly via the browser or command line using the confirmed endpoints:
 ```bash
     
